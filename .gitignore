@@ -1,0 +1,9 @@
+venv
+.env
+.streamlit/*
+.streamlit/secrets.toml
+temp.py
+__pycache__/
+*.csv
+*.cfg
+*.cfg.*
