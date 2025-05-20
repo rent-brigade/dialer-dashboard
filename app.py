@@ -1,6 +1,6 @@
+from supabase import create_client, Client
 import streamlit as st
 import pandas as pd
-from supabase import create_client, Client
 import webbrowser
 from charts import create_price_history_chart
 
